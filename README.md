@@ -4,7 +4,6 @@ I'm Majid. I currently work as a Software Developer and my work revolves around 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Electron.js
 - 🌱 I’m currently learning ...Machine learnig
 - 👯 I’m looking to collaborate on ...React.js
 - 🤔 I’m looking for help with ...devops
