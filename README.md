@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Majid. I currently work as a Full-stack Developer and my work revolves around javascript ecosystem, mostly work on MERN & PERN stack and my intrest lie on frontend development apart from programming, if any one can me with devops stuff then it will be great for me.
+I'm Majid. I currently work as a Full-stack Developer and my work revolves around javascript ecosystem, mostly work on MERN & PERN stack and my intrest lie on frontend development and micro-frontend apart from programming, if any one can me with devops stuff then it will be great for me.
 
 Here are some ideas to get you started:
 
